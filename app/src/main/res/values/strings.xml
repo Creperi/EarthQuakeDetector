@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EarthQuakeDetector</string>
+    <string name="title_activity_maps">EarthQuakeDetector</string>
+    <string name="minmagnitude">Min Magnitude</string>
+    <string name="maxrange">Max Range</string>
+    <string name="minnotificationinterval">Min notification interval</string>
+    <string name="save">save</string>
+        <string-array name="intervalVal">
+            <item>0</item>
+            <item>5</item>
+            <item>10</item>
+            <item>15</item>
+            <item>20</item>
+        </string-array>
+</resources>
